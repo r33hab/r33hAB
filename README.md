@@ -17,7 +17,7 @@
 
 ### 📱 Apps
 
-Multi-year app developer. Native macOS and iOS in Swift and SwiftUI, Android in Kotlin, web front ends in TypeScript and React. End to end: UI, backend, release.
+App developer with 6+ years of experience. Native macOS and iOS in Swift and SwiftUI, Android in Kotlin, web front ends in TypeScript and React. End to end: UI, backend, release.
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +82,6 @@ Every merge builds, tests and packages a container. Argo CD syncs the desired st
 ## `05` Telemetry
 
 <p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r33hAB&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&ring_color=d3869b&border_color=3c3836&border_radius=14">
   <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com?user=r33hAB&background=282828&border=3C3836&stroke=3C3836&ring=FE8019&fire=FB4934&currStreakNum=EBDBB2&sideNums=EBDBB2&currStreakLabel=FABD2F&sideLabels=A89984&dates=928374&border_radius=14">
 </p>
 
@@ -103,7 +102,7 @@ Model: "r33hab"
 ┃ Layer (type)            ┃ Output shape   ┃ Params       ┃
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
 │ curiosity (Input)       │ (None, ∞)      │ 0            │
-│ app_dev (Dense)         │ (None, years)  │ lots         │
+│ app_dev (Dense)         │ (None, 6+ yrs) │ lots         │
 │ dotnet_platform (Dense) │ (None, k8s)    │ multi-tenant │
 │ gitops (ArgoSync)       │ (None, synced) │ auto         │
 │ neural_nets (Dense)     │ (None, 256)    │ self-trained │

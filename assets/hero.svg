@@ -74,7 +74,7 @@
     <text x="64" y="202" fill="url(#title)">r33hab</text>
   </g>
   <text x="64" y="250" class="sans" font-size="22" font-weight="600" fill="#ebdbb2">App developer · AI &amp; neural networks</text>
-  <text x="64" y="282" class="sans" font-size="16" fill="#a89984">Years of shipping apps and .NET platforms on Kubernetes.</text>
+  <text x="64" y="282" class="sans" font-size="16" fill="#a89984">6+ years of shipping apps and .NET platforms on Kubernetes.</text>
   <text x="64" y="304" class="sans" font-size="16" fill="#a89984">Lately: building and training my own neural networks.</text>
 </g>
 <rect x=".5" y=".5" width="999" height="359" rx="18" fill="none" stroke="#3c3836"/>

@@ -236,7 +236,7 @@ def hero():
     <text x="64" y="202" fill="url(#title)">r33hab</text>
   </g>
   <text x="64" y="250" class="sans" font-size="22" font-weight="600" fill="{INK}">App developer · AI &amp; neural networks</text>
-  <text x="64" y="282" class="sans" font-size="16" fill="{DIM}">Years of shipping apps and .NET platforms on Kubernetes.</text>
+  <text x="64" y="282" class="sans" font-size="16" fill="{DIM}">6+ years of shipping apps and .NET platforms on Kubernetes.</text>
   <text x="64" y="304" class="sans" font-size="16" fill="{DIM}">Lately: building and training my own neural networks.</text>
 </g>
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="18" fill="none" stroke="{LINE}"/>"""
@@ -261,7 +261,7 @@ def terminal():
         ("out", [(AQUA, "› "), (SOFT, "neural networks I design and train myself")]),
         ("out", [(AQUA, "› "), (SOFT, "AI agents, MCP servers and LLM tooling")]),
         ("cmd", "uptime"),
-        ("out", [(SOFT, "years of shipping apps, still learning daily")]),
+        ("out", [(SOFT, "6+ years of shipping apps, still learning daily")]),
         ("prompt", ""),
     ]
 
