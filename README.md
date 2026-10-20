@@ -17,7 +17,7 @@
 
 ### 📱 Apps
 
-App developer with 6+ years of experience. Native macOS and iOS in Swift and SwiftUI, Android in Kotlin, web front ends in TypeScript and React. End to end: UI, backend, release.
+App developer, shipping professionally since 2021. Native macOS and iOS in Swift and SwiftUI, Android in Kotlin, web front ends in TypeScript and React. End to end: UI, backend, release.
 
 </td>
 <td width="50%" valign="top">
@@ -75,9 +75,11 @@ Every merge builds, tests and packages a container. Argo CD syncs the desired st
 <p align="center">
   <a href="https://github.com/r33hAB/claude-agent-visualizer"><img width="49%" alt="claude-agent-visualizer" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=claude-agent-visualizer&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
   <a href="https://github.com/r33hAB/MacUninstaller"><img width="49%" alt="MacUninstaller" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=MacUninstaller&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
-  <a href="https://github.com/r33hAB/SteamIdler"><img width="49%" alt="SteamIdler" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=SteamIdler&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
-  <a href="https://github.com/r33hAB/discord-follow-counter"><img width="49%" alt="discord-follow-counter" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=discord-follow-counter&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
+  <a href="https://github.com/r33hAB/norapi"><img width="49%" alt="norapi" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=norapi&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
+  <a href="https://github.com/r33hAB/nordlake"><img width="49%" alt="nordlake" src="https://github-readme-stats.vercel.app/api/pin/?username=r33hAB&repo=nordlake&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=3c3836&border_radius=14"></a>
 </p>
+
+<p align="center">📱 <b>Luftrom</b>, a native iOS map of Norwegian drone zones with a pre-flight check: <a href="https://apps.apple.com/no/app/luftrom/id6814970717">App Store</a></p>
 
 ## `05` Telemetry
 
@@ -102,7 +104,7 @@ Model: "r33hab"
 ┃ Layer (type)            ┃ Output shape   ┃ Params       ┃
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
 │ curiosity (Input)       │ (None, ∞)      │ 0            │
-│ app_dev (Dense)         │ (None, 6+ yrs) │ lots         │
+│ app_dev (Dense)         │ (None, 2021→)  │ lots         │
 │ dotnet_platform (Dense) │ (None, k8s)    │ multi-tenant │
 │ gitops (ArgoSync)       │ (None, synced) │ auto         │
 │ neural_nets (Dense)     │ (None, 256)    │ self-trained │
